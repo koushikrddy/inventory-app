@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFF8E1"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-28" y="-35" width="56" height="70" rx="4" fill="#FFD54F"/>
+        <rect x="-28" y="-35" width="56" height="70" rx="4" fill="none" stroke="#F9A825" stroke-width="2"/>
+        <rect x="-22" y="-28" width="44" height="30" rx="2" fill="#FFF8E1"/>
+        <text x="0" y="-15" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="#E65100">PARLE-G</text>
+        <circle cx="0" cy="5" r="12" fill="#FFECB3"/>
+        <circle cx="0" cy="5" r="8" fill="#FFD54F"/>
+        <circle cx="-3" cy="3" r="1.5" fill="#F57F17"/>
+        <circle cx="3" cy="3" r="1.5" fill="#F57F17"/>
+        <path d="M-3,7 Q0,10 3,7" fill="none" stroke="#F57F17" stroke-width="1"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Parle-G Biscuit</text>
+</svg>

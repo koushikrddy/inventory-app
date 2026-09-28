@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#E8F5E9"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-24" y="-30" width="48" height="60" rx="4" fill="#2E7D32"/>
+        <rect x="-24" y="-30" width="48" height="60" rx="4" fill="none" stroke="#1B5E20" stroke-width="2"/>
+        <rect x="-18" y="-24" width="36" height="16" rx="2" fill="#A5D6A7"/>
+        <text x="0" y="-13" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="#1B5E20">SAFAL</text>
+        <ellipse cx="0" cy="6" rx="14" ry="14" fill="#4CAF50"/>
+        <circle cx="-5" cy="2" r="4" fill="#66BB6A"/>
+        <circle cx="5" cy="4" r="3.5" fill="#66BB6A"/>
+        <circle cx="0" cy="10" r="3" fill="#66BB6A"/>
+        <circle cx="-3" cy="1" r="1" fill="#81C784" opacity="0.6"/>
+        <circle cx="6" cy="3" r="1" fill="#81C784" opacity="0.6"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Frozen Peas</text>
+</svg>

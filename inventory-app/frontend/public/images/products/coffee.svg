@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#EFEBE9"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-20" y="-35" width="40" height="70" rx="4" fill="#4E342E"/>
+        <rect x="-16" y="-30" width="32" height="22" rx="2" fill="#FFCCBC"/>
+        <text x="0" y="-16" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="#3E2723">NESCAFÉ</text>
+        <ellipse cx="0" cy="8" rx="14" ry="14" fill="#D84315"/>
+        <ellipse cx="0" cy="8" rx="10" ry="10" fill="#FF5722"/>
+        <text x="0" y="11" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="white">N</text>
+        <path d="M-8,-38 Q-4,-44 0,-40" fill="#D7CCC8" opacity="0.6"/>
+        <path d="M2,-40 Q6,-46 10,-42" fill="#D7CCC8" opacity="0.4"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Nescafe Coffee</text>
+</svg>

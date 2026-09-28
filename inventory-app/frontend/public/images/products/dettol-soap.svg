@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#E8F5E9"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-26" y="-24" width="52" height="48" rx="10" fill="#2E7D32"/>
+        <rect x="-26" y="-24" width="52" height="48" rx="10" fill="none" stroke="#1B5E20" stroke-width="2"/>
+        <circle cx="0" cy="-2" r="12" fill="white" opacity="0.9"/>
+        <text x="0" y="1" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="#2E7D32">DETTOL</text>
+        <path d="M-6,-10 L0,-16 L6,-10" fill="none" stroke="#4CAF50" stroke-width="1.5"/>
+        <circle cx="-12" cy="8" r="3" fill="#A5D6A7" opacity="0.4"/>
+        <circle cx="12" cy="8" r="3" fill="#A5D6A7" opacity="0.4"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Dettol Soap</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#E3F2FD"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-28" y="-35" width="56" height="70" rx="4" fill="#1565C0"/>
+        <rect x="-28" y="-35" width="56" height="70" rx="4" fill="none" stroke="#0D47A1" stroke-width="2"/>
+        <rect x="-22" y="-28" width="44" height="24" rx="2" fill="#42A5F5"/>
+        <text x="0" y="-17" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="white">SURF</text>
+        <text x="0" y="-9" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="white">EXCEL</text>
+        <circle cx="0" cy="8" r="14" fill="#1E88E5"/>
+        <path d="M-8,4 Q0,-2 8,4" fill="none" stroke="#90CAF9" stroke-width="2"/>
+        <circle cx="0" cy="8" r="6" fill="#42A5F5" opacity="0.4"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Surf Excel</text>
+</svg>

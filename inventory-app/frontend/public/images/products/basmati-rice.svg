@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFF8E1"/>
+  <g transform="translate(100,80)">
+    <ellipse cx="0" cy="10" rx="40" ry="45" fill="#F9A825"/>
+    <ellipse cx="0" cy="10" rx="34" ry="38" fill="#FDD835"/>
+    <ellipse cx="-6" cy="5" rx="10" ry="25" fill="#FFF9C4" opacity="0.5"/>
+    <path d="M-15,-35 Q-8,-55 0,-50 Q8,-55 15,-35" fill="#FDD835" stroke="#F9A825" stroke-width="1.5"/>
+    <path d="M-5,-45 Q0,-58 5,-45" fill="#FDD835" stroke="#F9A825" stroke-width="1"/>
+    <path d="M-10,-40 Q0,-52 10,-40" fill="#FDD835" stroke="#F9A825" stroke-width="1"/>
+  </g>
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Basmati Rice</text>
+</svg>

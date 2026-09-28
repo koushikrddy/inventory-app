@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FAFAFA"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-26" y="-35" width="52" height="70" rx="3" fill="white"/>
+        <rect x="-26" y="-35" width="52" height="70" rx="3" fill="none" stroke="#BDBDBD" stroke-width="2"/>
+        <rect x="-20" y="-28" width="40" height="16" rx="2" fill="#E53935"/>
+        <text x="0" y="-17" text-anchor="middle" font-family="Arial" font-size="8" font-weight="bold" fill="white">MADHUR</text>
+        <circle cx="-8" cy="4" r="2" fill="#E0E0E0"/>
+        <circle cx="0" cy="2" r="2.5" fill="#E0E0E0"/>
+        <circle cx="8" cy="5" r="2" fill="#E0E0E0"/>
+        <circle cx="-4" cy="10" r="1.5" fill="#E0E0E0"/>
+        <circle cx="4" cy="12" r="2" fill="#E0E0E0"/>
+        <circle cx="10" cy="-2" r="1.5" fill="#E0E0E0"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Sugar</text>
+</svg>

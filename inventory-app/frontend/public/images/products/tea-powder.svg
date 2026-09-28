@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#E8F5E9"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-24" y="-32" width="48" height="64" rx="4" fill="#1B5E20"/>
+        <rect x="-20" y="-26" width="40" height="18" rx="2" fill="#C8E6C9"/>
+        <text x="0" y="-14" text-anchor="middle" font-family="Arial" font-size="6.5" font-weight="bold" fill="#1B5E20">TAJ MAHAL</text>
+        <ellipse cx="0" cy="10" rx="14" ry="14" fill="#2E7D32"/>
+        <ellipse cx="0" cy="10" rx="10" ry="10" fill="#4CAF50"/>
+        <path d="M-3,7 Q0,3 3,7" fill="none" stroke="#81C784" stroke-width="1.5"/>
+        <circle cx="0" cy="10" r="3" fill="#A5D6A7" opacity="0.5"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Tea Powder</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#EFEBE9"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-28" y="-35" width="56" height="70" rx="4" fill="#FFF8E1"/>
+        <rect x="-28" y="-35" width="56" height="70" rx="4" fill="none" stroke="#8D6E63" stroke-width="2"/>
+        <rect x="-22" y="-28" width="44" height="20" rx="2" fill="#FFCC02"/>
+        <text x="0" y="-14" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#5D4037">AASHIRVAAD</text>
+        <ellipse cx="0" cy="8" rx="18" ry="14" fill="#FFF3E0"/>
+        <ellipse cx="0" cy="6" rx="12" ry="10" fill="#F5DEB3"/>
+        <path d="M-8,-2 L0,-8 L8,-2" fill="none" stroke="#D7CCC8" stroke-width="1.5"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Wheat Flour</text>
+</svg>

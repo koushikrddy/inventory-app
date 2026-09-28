@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFEBEE"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-24" y="-32" width="48" height="64" rx="4" fill="#E53935"/>
+        <rect x="-20" y="-26" width="40" height="20" rx="2" fill="white"/>
+        <text x="0" y="-13" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="#C62828">COLGATE</text>
+        <ellipse cx="0" cy="8" rx="14" ry="14" fill="#FFCDD2"/>
+        <path d="M-6,4 Q0,0 6,4" fill="none" stroke="#E53935" stroke-width="1.5"/>
+        <circle cx="0" cy="10" r="4" fill="white" opacity="0.6"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Colgate Toothpaste</text>
+</svg>

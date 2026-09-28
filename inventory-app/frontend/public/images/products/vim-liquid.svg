@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFFDE7"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-10" y="-50" width="20" height="10" rx="4" fill="#F9A825"/>
+        <rect x="-10" y="-42" width="20" height="5" rx="1" fill="#E0E0E0"/>
+        <path d="M-16,-37 L-16,42 Q-16,48 0,48 Q16,48 16,42 L16,-37Z" fill="#FDD835"/>
+        <path d="M-12,-33 L-12,38 Q-12,43 0,43 Q12,43 12,38 L12,-33Z" fill="#FFF176"/>
+        <text x="0" y="-10" text-anchor="middle" font-family="Arial" font-size="8" font-weight="bold" fill="#F57F17">VIM</text>
+        <path d="M-6,5 Q0,2 6,5" fill="none" stroke="#FBC02D" stroke-width="1.5"/>
+        <circle cx="0" cy="15" r="6" fill="#FFF9C4" opacity="0.5"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Vim Liquid</text>
+</svg>

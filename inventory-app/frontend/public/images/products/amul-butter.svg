@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFF8E1"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-28" y="-22" width="56" height="44" rx="6" fill="#FFD54F"/>
+        <rect x="-28" y="-22" width="56" height="44" rx="6" fill="none" stroke="#F9A825" stroke-width="2"/>
+        <rect x="-22" y="-16" width="44" height="14" rx="2" fill="#1565C0"/>
+        <text x="0" y="-6" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="white">amul</text>
+        <rect x="-20" y="2" width="40" height="16" rx="2" fill="#FFF8E1"/>
+        <text x="0" y="13" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="#F57F17">BUTTER</text>
+        <circle cx="-16" cy="-8" r="2" fill="#FFF9C4" opacity="0.5"/>
+        <circle cx="16" cy="-8" r="2" fill="#FFF9C4" opacity="0.5"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Amul Butter</text>
+</svg>

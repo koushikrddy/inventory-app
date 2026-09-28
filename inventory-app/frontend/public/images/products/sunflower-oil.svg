@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFFDE7"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-16" y="-45" width="32" height="12" rx="3" fill="#F57F17"/>
+        <rect x="-12" y="-33" width="24" height="10" rx="2" fill="#FFD54F"/>
+        <rect x="-22" y="-23" width="44" height="65" rx="6" fill="#FFD54F"/>
+        <rect x="-22" y="-23" width="44" height="65" rx="6" fill="none" stroke="#F57F17" stroke-width="2"/>
+        <rect x="-16" y="-15" width="32" height="35" rx="3" fill="#FFF9C4"/>
+        <circle cx="0" cy="2" r="10" fill="#FFD54F"/>
+        <circle cx="0" cy="2" r="6" fill="#F57F17"/>
+        <ellipse cx="0" cy="-5" rx="2" ry="8" fill="#F57F17" opacity="0.3"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Sunflower Oil</text>
+</svg>

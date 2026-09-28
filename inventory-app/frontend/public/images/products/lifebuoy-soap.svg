@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFEBEE"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-26" y="-24" width="52" height="48" rx="12" fill="#E53935"/>
+        <rect x="-26" y="-24" width="52" height="48" rx="12" fill="none" stroke="#C62828" stroke-width="2"/>
+        <circle cx="0" cy="0" r="14" fill="white" opacity="0.9"/>
+        <text x="0" y="1" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="#E53935">LIFE</text>
+        <text x="0" y="8" text-anchor="middle" font-family="Arial" font-size="5" font-weight="bold" fill="#E53935">BUOY</text>
+        <circle cx="-14" cy="0" r="4" fill="#FFCDD2" opacity="0.4"/>
+        <circle cx="14" cy="0" r="4" fill="#FFCDD2" opacity="0.4"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Lifebuoy Soap</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFFDE7"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-26" y="-18" width="52" height="36" rx="10" fill="#FDD835"/>
+        <rect x="-26" y="-18" width="52" height="36" rx="10" fill="none" stroke="#F9A825" stroke-width="2"/>
+        <rect x="-20" y="-12" width="40" height="10" rx="2" fill="#FFF8E1"/>
+        <text x="0" y="-4" text-anchor="middle" font-family="Arial" font-size="7" font-weight="bold" fill="#F57F17">VIM</text>
+        <path d="M-10,6 Q0,2 10,6" fill="none" stroke="#FBC02D" stroke-width="1.5"/>
+        <circle cx="-8" cy="2" r="2" fill="#FFF9C4" opacity="0.5"/>
+        <circle cx="8" cy="4" r="1.5" fill="#FFF9C4" opacity="0.5"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Vim Bar</text>
+</svg>

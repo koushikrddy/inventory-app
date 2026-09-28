@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFF3E0"/>
+  
+      <g transform="translate(100,80)">
+        <rect x="-26" y="-35" width="52" height="70" rx="4" fill="#FF8F00"/>
+        <rect x="-26" y="-35" width="52" height="70" rx="4" fill="none" stroke="#E65100" stroke-width="2"/>
+        <rect x="-20" y="-28" width="40" height="22" rx="2" fill="#FFF8E1"/>
+        <text x="0" y="-15" text-anchor="middle" font-family="Arial" font-size="6" font-weight="bold" fill="#BF360C">HALDIRAM'S</text>
+        <ellipse cx="0" cy="8" rx="14" ry="14" fill="#FFB300"/>
+        <path d="M-8,4 L-4,0 L0,6 L4,2 L8,4" fill="none" stroke="#E65100" stroke-width="1.5"/>
+        <circle cx="-3" cy="10" r="2" fill="#FFE082"/>
+        <circle cx="4" cy="8" r="1.5" fill="#FFE082"/>
+      </g>
+    
+  <text x="100" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#37474F">Haldiram Bhujia</text>
+</svg>
